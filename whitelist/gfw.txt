@@ -30,6 +30,7 @@ facebook.com
 facebook.net
 fb.com
 wikipedia.org
+wikimedia.org
 osdn.net
 firebaseio.com
 opengapps.org
