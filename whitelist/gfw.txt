@@ -9,6 +9,7 @@ about.google
 googletagmanager.com
 googleusercontent.com
 google-analytics.com
+gmail.com
 ggpht.com
 gstatic.com
 chrome.com
@@ -31,6 +32,10 @@ facebook.net
 fb.com
 wikipedia.org
 wikimedia.org
+wikiquote.org
+wiktionary.org
+wikivoyage.org
+wikibooks.org
 osdn.net
 firebaseio.com
 opengapps.org
@@ -78,3 +83,6 @@ lineageos.org
 android.com
 pureapk.com
 gvt1.com
+bit.ly
+dns.google
+cloudflare-dns.com
