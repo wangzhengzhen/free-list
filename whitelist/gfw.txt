@@ -36,6 +36,7 @@ wikiquote.org
 wiktionary.org
 wikivoyage.org
 wikibooks.org
+wikidata.org
 osdn.net
 firebaseio.com
 opengapps.org
