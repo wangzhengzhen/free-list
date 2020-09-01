@@ -87,3 +87,13 @@ gvt1.com
 bit.ly
 dns.google
 cloudflare-dns.com
+shadowsocks.org
+cloudfront.net
+wmfusercontent.org
+medium.com
+imgur.com
+messenger.com
+fbwat.ch
+fb.gg
+msngr.com
+appcenter.ms
