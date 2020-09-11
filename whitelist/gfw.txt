@@ -102,3 +102,4 @@ appledaily.com
 chromium.org
 withgoogle.com
 chromeexperiments.com
+akamaihd.net
