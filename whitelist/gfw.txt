@@ -4,6 +4,7 @@
 
 google.co
 google.com
+google.com.hk
 google.com.sg
 about.google
 googletagmanager.com
