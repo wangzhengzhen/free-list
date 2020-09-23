@@ -104,3 +104,4 @@ chromium.org
 withgoogle.com
 chromeexperiments.com
 akamaihd.net
+giphy.com
