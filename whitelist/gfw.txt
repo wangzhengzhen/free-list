@@ -105,3 +105,5 @@ withgoogle.com
 chromeexperiments.com
 akamaihd.net
 giphy.com
+telesco.pe
+golang.org
