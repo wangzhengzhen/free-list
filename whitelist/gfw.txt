@@ -38,6 +38,7 @@ wiktionary.org
 wikivoyage.org
 wikibooks.org
 wikidata.org
+wikisource.org
 osdn.net
 firebaseio.com
 opengapps.org
@@ -107,3 +108,4 @@ akamaihd.net
 giphy.com
 telesco.pe
 golang.org
+googlegroups.com
