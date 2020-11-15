@@ -109,3 +109,6 @@ giphy.com
 telesco.pe
 golang.org
 googlegroups.com
+yimg.com
+squoosh.app
+github.io
